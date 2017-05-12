@@ -1,0 +1,29 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "Demonstrate es6 fesutures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makassigithub"
+  },
+  "author": "Makassi",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.1.0",
+<<<<<<< HEAD
+    "gulp-traceur": "^0.17.2",
+=======
+    "gulp-tracer": "^0.1.2",
+>>>>>>> 5ed4442e9e98e49c3e829839d8cdcbe97860f3e0
+    "gulp-typescript": "^3.1.6",
+    "gulp-uglify": "^2.1.2"
+  }
+}
